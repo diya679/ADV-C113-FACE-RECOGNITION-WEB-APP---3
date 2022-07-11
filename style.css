@@ -1,0 +1,11 @@
+body {
+    color: rgb(16, 15, 30);
+    background: rgb(67, 213, 232);
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object {
+    color:rgb(249, 242, 242) ;
+}
